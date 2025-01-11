@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    height: 41rem;
+    background-image: url("file:///F:/Projects/Our_Project/SM_1/cute-pastel-colour-heart-pattern-love-theme-design-for-background-wallpaper-fabric-valentine-day-wedding-ceremony-anniversary-craft-backdrop-gift-wrap-vector.jpg");
+}
+.textcontainer{
+    margin-left: 0.1rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.change{
+    margin-right: 4rem;
+    height: 3rem ;
+    margin-top: 1.2rem;
+    border-radius: 3rem;
+    background-color: aqua;
+    position: absolute;
+    right: 12rem;
+}
+h2{
+    text-decoration: underline;
+    font-weight: 900;
+}
+.text{
+    margin: auto;
+    height: 5rem;
+    width: 35rem;
+    background-color: rgb(240, 210, 188);
+    border: 3px solid black;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: safe ;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+.love{
+    margin-top: 3rem;
+    background-color: rgb(190, 153, 224);
+    height: 3rem ;
+    width: 5rem;
+    border-radius: 4rem;
+    border: 2px solid rgb(238, 173, 184);
+    color: rgb(255, 0, 76);
+}
+.photo{
+    margin-top: 1.3rem;
+    border-radius: 3rem;
+    border: 2px solid black;
+    position: relative;
+    left: 7rem;
+    height: 24rem;
+    width: 30rem;
+    background-color: white;
+    margin-left: 20rem;
+}
+.photo1{
+    width: 100%;
+    height: 100%;
+    border-radius: 3rem;
+}
+
+#background_audio{
+    position:absolute;
+    top: 0.9rem;
+    left: 0px;
+    background-color: inherit;
+    opacity: 0.5;
+}
+.next{
+    position:absolute;
+    top:4.9rem;
+    left: 5.5rem;
+    opacity: 0.5;
+    border-radius: 3rem;
+
+}
